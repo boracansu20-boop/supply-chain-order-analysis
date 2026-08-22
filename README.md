@@ -68,8 +68,8 @@ Install the required libraries:
 ```bash
 pip install pandas matplotlib
 
-Then run:
+## Then run 
 python analysis.py
 
-Author
+## Author
 Cansu Bora
