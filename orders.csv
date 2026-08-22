@@ -1,0 +1,41 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price,Delivery_Days,Status
+1001,2026-01-05,Wireless Mouse,Electronics,12,18.5,3,On Time
+1002,2026-01-08,Keyboard,Electronics,8,32.0,7,Delayed
+1003,2026-01-12,Office Chair,Furniture,4,145.0,5,On Time
+1004,2026-01-15,Desk Lamp,Furniture,10,27.5,4,On Time
+1005,2026-01-20,USB-C Hub,Electronics,15,24.0,8,Delayed
+1006,2026-01-24,Notebook Pack,Office Supplies,30,6.5,2,On Time
+1007,2026-02-02,Monitor Stand,Furniture,7,42.0,6,Delayed
+1008,2026-02-06,Wireless Mouse,Electronics,18,18.5,3,On Time
+1009,2026-02-11,Printer Paper,Office Supplies,25,8.0,4,On Time
+1010,2026-02-15,Keyboard,Electronics,11,32.0,5,On Time
+1011,2026-02-19,Desk Lamp,Furniture,6,27.5,9,Delayed
+1012,2026-02-25,USB-C Hub,Electronics,9,24.0,4,On Time
+1013,2026-03-03,Office Chair,Furniture,3,145.0,7,Delayed
+1014,2026-03-07,Notebook Pack,Office Supplies,22,6.5,2,On Time
+1015,2026-03-12,Wireless Mouse,Electronics,14,18.5,5,On Time
+1016,2026-03-16,Printer Paper,Office Supplies,40,8.0,6,Delayed
+1017,2026-03-21,Monitor Stand,Furniture,5,42.0,4,On Time
+1018,2026-03-27,Keyboard,Electronics,13,32.0,3,On Time
+1019,2026-04-02,USB-C Hub,Electronics,20,24.0,7,Delayed
+1020,2026-04-08,Desk Lamp,Furniture,9,27.5,4,On Time
+1021,2026-04-13,Notebook Pack,Office Supplies,35,6.5,3,On Time
+1022,2026-04-18,Office Chair,Furniture,6,145.0,5,On Time
+1023,2026-04-24,Wireless Mouse,Electronics,16,18.5,8,Delayed
+1024,2026-05-01,Printer Paper,Office Supplies,28,8.0,4,On Time
+1025,2026-05-06,Monitor Stand,Furniture,8,42.0,6,Delayed
+1026,2026-05-12,Keyboard,Electronics,10,32.0,3,On Time
+1027,2026-05-18,Desk Lamp,Furniture,12,27.5,5,On Time
+1028,2026-05-23,USB-C Hub,Electronics,17,24.0,4,On Time
+1029,2026-06-01,Notebook Pack,Office Supplies,27,6.5,7,Delayed
+1030,2026-06-07,Office Chair,Furniture,5,145.0,4,On Time
+1031,2026-06-13,Wireless Mouse,Electronics,21,18.5,3,On Time
+1032,2026-06-19,Printer Paper,Office Supplies,32,8.0,5,On Time
+1033,2026-06-25,Keyboard,Electronics,7,32.0,8,Delayed
+1034,2026-07-02,Monitor Stand,Furniture,9,42.0,4,On Time
+1035,2026-07-09,USB-C Hub,Electronics,13,24.0,6,Delayed
+1036,2026-07-15,Desk Lamp,Furniture,11,27.5,3,On Time
+1037,2026-07-21,Notebook Pack,Office Supplies,38,6.5,2,On Time
+1038,2026-07-28,Office Chair,Furniture,4,145.0,7,Delayed
+1039,2026-08-04,Wireless Mouse,Electronics,19,18.5,4,On Time
+1040,2026-08-10,Printer Paper,Office Supplies,24,8.0,3,On Time
